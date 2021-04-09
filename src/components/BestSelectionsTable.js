@@ -20,24 +20,24 @@ const BestSelectionsTable = () => (
       <tbody>
         <tr>
           <td>
-            Colin Morikawa <br></br> -1
+            Patrick Reed, Webb Simpson <br></br> -2
           </td>
           <td>
-            Brooks Koepka <br></br> -1
+            Viktor Hovland, Paul Casey <br></br> +1
           </td>
           <td>
-            Tiger Woods <br></br> -1
+            Hideki Matsuyama <br></br> -3
           </td>
           <td>
-            Bubba Watson <br></br> -1
+            Christiaan Bezuidenhout <br></br> -2
           </td>
           <td>
-            Henrik Stenson <br></br> -1
+            Justin Rose <br></br> -7
           </td>
           <td>
-            Jordan Spieth <br></br> -1
+            Michael Thompson, Mackenzie Hughes <br></br> E
           </td>
-          <td>-12</td>
+          <td>-13</td>
         </tr>
       </tbody>
     </Table>

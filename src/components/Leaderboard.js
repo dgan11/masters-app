@@ -15,26 +15,41 @@ const Leaderboard = () => (
       </thead>
       <tbody>
         <tr>
-          <td>🏆</td>
-          <td>Macro</td>
-          <td>-21</td>
+          <td>🏆 T1</td>
+          <td>Cem “Seize The Means of Production” Okcu</td>
+          <td>+3</td>
         </tr>
         <tr>
-          <td>🥈</td>
-          <td>David</td>
-          <td>-20</td>
+          <td>🏆 T1</td>
+          <td>Ollie</td>
+          <td>+3</td>
         </tr>
         <tr>
+          <td>🥈 T2</td>
+          <td>David Gan</td>
+          <td>+4</td>
+        </tr>
+        <tr>
+          <td>🥈 T2</td>
+          <td>Davis Nelson</td>
+          <td>+4</td>
+        </tr>
+        <tr>
+          <td>🥈 T2</td>
+          <td>Slam Fisher</td>
+          <td>+4</td>
+        </tr>
+        {/* <tr>
           <td>🥉</td>
           <td>Jackson</td>
-          <td>-13</td>
-        </tr>
+          <td>0</td>
+        </tr> */}
         {/* <tr>
           <td colSpan="3">...</td>
         </tr> */}
         <tr>
           <td>last 😩</td>
-          <td>Shrey</td>
+          <td>David Fitzpatrick & GutzWilli</td>
           <td>+13</td>
         </tr>
       </tbody>
